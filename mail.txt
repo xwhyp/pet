@@ -1,0 +1,3 @@
+mail@outlook.com,password,refferal1
+mail@outlook.com,password,refferal2
+mail@outlook.com,password,refferal3
